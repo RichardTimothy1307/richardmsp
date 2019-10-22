@@ -9,4 +9,4 @@ void main()
    {
      scanf("%d",&a[]);
     }
-    
+    getch();}
